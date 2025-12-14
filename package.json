@@ -1,0 +1,12 @@
+{
+  "name": "webrtc-realtime-communication-lab",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Hands-on WebRTC lab: Phase 1 P2P ICE and beyond",
+  "scripts": {
+    "phase1:server": "node phase-1/server/signaling-server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
